@@ -54,9 +54,9 @@ python IVCS.py
     - Enter the interval in seconds between each thumbnail (default is 30 seconds).
     - The script will generate a contact sheet named `video_name_contact_sheet.jpg` containing the thumbnails.
 
-## Example
+## Welcome to Instant Video Contact Sheet (IVCS)! 
 
-Welcome to Instant Video Contact Sheet (IVCS)! You'll be prompted to select a file:
+You'll be prompted to select a file:
 Available video files:
 1: example_video.mp4
 Enter the number of the video file to process: 1
