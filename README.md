@@ -56,14 +56,11 @@ python IVCS.py
 
 ## Welcome to Instant Video Contact Sheet (IVCS)! 
 
-You'll be prompted to select a file:
+Place your video in the IVCP folder and run IVCS.py.
 
-Available video files:
-1: example_video.mp4
+    If only one video is found, the process will begin automatically.
 
-Enter the number of the video file to process: 1
-
-Enter the interval in seconds between each thumbnail (default 30 seconds): 30
+    If two or more videos are found, you will be prompted to select which one to use.
 
 Contact sheet generated successfully: example_video_contact_sheet.jpg
 
