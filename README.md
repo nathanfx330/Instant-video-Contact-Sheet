@@ -62,9 +62,7 @@ Place your video in the IVCP folder and run IVCS.py.
 
     If two or more videos are found, you will be prompted to select which one to use.
 
-Contact sheet generated successfully: example_video_contact_sheet.jpg
-
-
+Once the process is complete, you should see example_video_contact_sheet.jpg in the project root directory.
 
 ## License
 
